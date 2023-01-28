@@ -1,0 +1,40 @@
+{
+    "notes": [
+        {
+            "noteText": "All events for SDK or etc...",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-101605589-0"
+        },
+        {
+            "noteText": "",
+            "show": false,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-963194225-0"
+        },
+        {
+            "noteText": "Child'ların sırası önemli  eğer bir şey eklencekse sondan eklenmeli",
+            "show": false,
+            "typeName": "Notes.Note",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-9025696741776572221-0"
+        },
+        {
+            "noteText": "Child'ların sırası önemli  eğer bir şey eklencekse sondan eklenmeli",
+            "show": false,
+            "typeName": "Notes.Note",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-1815361005-0"
+        },
+        {
+            "noteText": "Childların konumu önemli, eğer bir şeyler kenecekse sondan eklenmeli.",
+            "show": false,
+            "typeName": "Notes.Note",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-1-26fb82fcf9494a040a016968bc5a4c68-5854330172085313145-0"
+        },
+        {
+            "noteText": "",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-1-968363ec9532cec4f947cd04e6bbf854-3995480818497572046-0"
+        }
+    ]
+}
